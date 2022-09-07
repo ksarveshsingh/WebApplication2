@@ -14,7 +14,7 @@ namespace WebApplication2
 
         public string My_pref()
         {
-            return "Hindi";
+            return "French";
         }
     }
 }
